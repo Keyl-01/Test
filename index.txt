@@ -1,3 +1,7 @@
 Test Git Edit
+<<<<<<< HEAD
 Update 
 AVDAD
+=======
+Add new 
+>>>>>>> d4b7219dee0b30a3a615b160cd716e79e573a492
